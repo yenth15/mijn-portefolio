@@ -48,7 +48,7 @@ export default {
       documents: [
         {
           title: "TNW UI Testdocument",
-          src: "/doc/TenV/Test_Elektroscheppers(UI-gerelateerd).pdf",
+          src: "/doc/TenV/TestElektroscheppers.pdf",
         },
       ],
     };
