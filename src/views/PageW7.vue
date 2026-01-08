@@ -27,7 +27,7 @@
         </p>
         </div>
 
-    <img src="/images/Feedback/Feedback.png" alt="E-mail uitnodiging" />
+    <img src="/images/FeedBack/Feedback.png" alt="E-mail uitnodiging" />
 
     <div class="text-block">
         <h2>beantwoorden vragen</h2>
