@@ -52,7 +52,7 @@
         <strong>Volledig:</strong> De opgeleverde functionaliteiten voldoen aan de eisen en wensen.
       </p>
       <ul class="inline-list">
-        <img class="large-img" src="/images/Code/DocumentAssistentCodeMetComments.png" alt="Code commentaar 1"/>
+        <img class="mudium-img" src="/images/Code/DocumentAssistentCodeMetComments.png" alt="Code commentaar 1"/>
         <img src="/images/Doc/MappenStructuur.png" alt="Code commentaar 2"/>
        </ul> 
     </section>
@@ -207,7 +207,7 @@ ul {
 }
 
 .text-block > img {
-  max-width: 120px;
+  max-width: 480px;
   margin-top: 10px;
 }
 
