@@ -174,7 +174,7 @@ export default {
           images: [
             "/images/Doc/UML_Activiteiten_diagram_Elektroscheppers.png",
             "/images/Doc/.png",
-            "/images/Doc/MockUp2.png",
+            "/images/Doc/MockUp2.0.png",
             "/images/Doc/wireframe_elektroscheppers.png",
             "/images/Doc/conponenten_diagram.png",
           ],
