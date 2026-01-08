@@ -31,7 +31,7 @@
             ></iframe>
           </div>
 
-          <div v-if="doc.buttons && doc.buttons.length > 0" class="side-block">
+          <div class="side-block">
             <div class="buttons">
               <button
                 v-for="(btn, i) in doc.buttons"
@@ -63,9 +63,9 @@
         <strong>Volledig:</strong> Er zijn gebruik gemaakt van relevante of toepasselijke Schematechnieken (bijv. activiteitendiagram, klassendiagram, ERD use case diagram)
       </p>
         </div>
-        <!-- Extra tekst tussen document 4 en 5 -->
+        <!-- Extra tekst tussen document 3 en 4 -->
         <div
-          v-if="index === 3"
+          v-if="index === 2"
           class="extra-text-block"
         >
           <br /><br /><br />
@@ -123,33 +123,23 @@ export default {
             "/images/Doc/MockUp4.png",
           ],
         },
-        // Document 3
-                {
-          title: "Funtioneel Ontwerp, The KEMBIT Times | 1.0",
-          iframes: ["/doc/FO/FunctioneelOntwerp_TheKEMBITTimes.pdf"],
-          buttons: [
-            "Fetch | UI", //////// Pas naam aan
-            "Search| UI",/////// Pas naam aan
-            "News | UI",/////// Pas naam aan
-            "Pager| UI",/////// Pas naam aan
-          ],
-          images: [
-            "/images/Doc/FetchSortK1.png",
-            "/images/Doc/SearchNewsK1.png",
-            "/images/Doc/NewsK1.png",
-            "/images/Doc/PagerK1.png",
-          ],
-        },
-        // Document 4
-        {
-          title: "Functioneel Ontwerp, The KEMBIT Times | 2.0",
-          iframes: ["/doc/FO/FunctioneelOntwerp_TKT-05.pdf"],
-        },
 
-        // Document 5
+        // Document 3
         {
           title: "Technisch Ontwerp, The KEMBIT Times | 1.0",
           iframes: ["/doc/TO/TechnischOntwerp_TheKembitTimes_2.0.pdf"],
+          buttons: [
+            "Activiteiten Diagram",
+            "DataSchema",
+            "Mock-up",
+            "WireFrame",
+          ],
+          images: [
+            "/images/Doc/ActiviteitenDiagramTheKembitTimes.png",
+            "/images/Doc/TheKembitTimes.png",
+            "/images/WebKembit/HomeK1-MU.png",
+            "/images/Doc/WireFrame_K2.png",
+          ],
         },
         // Document 6
                 {
@@ -169,7 +159,7 @@ export default {
           ],
         },
       ],
-      selectedImages: Array(6).fill(0),
+      selectedImages: Array(4).fill(0),
     };
   },
   methods: {
