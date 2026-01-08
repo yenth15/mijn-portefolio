@@ -18,7 +18,7 @@
       <p><strong>Bewijsstukken:</strong></p>
       <ul>
         <li>
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a href="https://trello.com/b/N3ZkUKzW/documentassistent" target="_blank" rel="noopener noreferrer">
             <strong>Trello board</strong> | DocumentAssistent
           </a>
         </li>
@@ -96,7 +96,7 @@ export default {
       documents: [
         {
           title: "Behoefteanalyse Offerte",
-          src: "/doc/BA/behoefteanalyse_Offerte-10.pdf#toolbar=0",
+          src: "/doc/BA/behoefteanalyse_DocumentAssistent-10.pdf#toolbar=0",
         },
       ],
     };
