@@ -58,12 +58,11 @@
           class="extra-text-block"
         >
           <br /><br /><br /><br />
-          <H2>Schematechnieken</H2>
+          <H2>Onderbouwing</H2>
       <p>
         Beoordelingseisen:
         <br />
-        <strong>Volledig:</strong> Er zijn gebruik gemaakt van relevante of toepasselijke Schematechnieken (bijv. activiteitendiagram, klassendiagram, ERD use case diagram)
-      </p>
+        <strong>Volledig:</strong> De gemaakte keuzes in het ontwerp zijn onderbouwd met steekhoudende argumenten, waarbij rekening is gehouden met haalbaarbeid, privacy en security.
         </div>
         <!-- Extra tekst tussen document 4 en 5 -->
         <div
@@ -71,11 +70,11 @@
           class="extra-text-block"
         >
           <br /><br /><br />
-          <H2>Onderbouwing</H2>
+          <H2>Schematechnieken</H2>
           <p>
             Beoordelingseisen:
             <br />
-            <strong>Volledig:</strong> De gemaakte keuzes in het ontwerp zijn onderbouwd met steekhoudende argumenten, waarbij rekening is gehouden met haalbaarbeid, privacy en security.
+            <strong>Volledig:</strong> Er zijn gebruik gemaakt van relevante of toepasselijke Schematechnieken (bijv. activiteitendiagram, klassendiagram, ERD use case diagram)
           </p>
         </div>
       </div>
