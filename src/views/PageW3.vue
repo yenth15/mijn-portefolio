@@ -12,7 +12,7 @@
         <strong>Volledig:</strong> Er is voldoende inhoud van de functionaliteit gereageerd binnen de gestelde/geplande tijd.
       </p>
 
-      <img src="" alt="Mail van Mike" />
+      <img src="/images/FeedBack/h4_Screen" alt="Mail van ojo" />
     </section>
         <br />
 
@@ -24,22 +24,20 @@
         <strong>Volledig:</strong> De opgeleverde functionaliteiten voldoen aan de eisen en wensen.
       </p>
       <ul>
-        <li><a href="https://trello.com/b/8T3gzD7w/portfolio-chirs" target="_blank">Trello Board | ChrisPortfolio</a></li>
-        <li><a href="https://trello.com/b/wXNOVcTn/kembit" target="_blank">Trello Board | The KEMBIT Times 1.0</a></li>
+        <li><a href="https://trello.com/b/N3ZkUKzW/documentassistent" target="_blank">Trello Board | DocumentAssistent</a></li>
+        <li><a href="https://trello.com/b/6756SHVX/portfolio-project" target="_blank">Trello Board | Portfolio project</a></li>
       </ul>
       <ul class="inline-list">
         <li>
             <video controls style="width: 100%; max-width: 800px; margin-top: 10px;">
-              <source src="/images/Code/ChrisPortfolio1.0.mp4" type="video/mp4" />
+              <source src="/images/Doc/Document assistent.mp4" type="video/mp4" />
             </video>
         </li>
         <li>
             <video controls style="width: 100%; max-width: 800px; margin-top: 10px;">
-              <source src="/images/Code/Kembit1.0.mp4" type="video/mp4" />
+              <source src="/images/Doc/mp4" type="video/mp4" />
             </video>
         </li>
-        <li><img src="/images/WebKembit/RegistreerLK1.png" alt="Website-RestultaatK2" /></li>
-        <li><img src="/images/WebKembit/SubK1.png" alt="Website-RestultaatK2" /></li>
       </ul>
     </section>
         <br />
@@ -54,9 +52,8 @@
         <strong>Volledig:</strong> De opgeleverde functionaliteiten voldoen aan de eisen en wensen.
       </p>
       <ul class="inline-list">
-        <img class="large-img" src="/images/Code/CodeChrisFO.png" alt="Code commentaar 1"/>
-        <img class="mudium-img" src="/images/Code/MappenStructuurG.png" alt="Code commentaar 2"/>
-        <img src="/images/Code/MappenStructuurF.png" alt="Code commentaar 3"/>
+        <img class="large-img" src="/images/Code/DocumentAssistentCodeMetComments.png" alt="Code commentaar 1"/>
+        <img src="/images/Doc/MappenStructuur.png" alt="Code commentaar 2"/>
        </ul> 
     </section>
 
@@ -72,23 +69,19 @@
       </p>
       <ul class="inline-list1">
             <h2>Foute code</h2>
-        <li><img src="/images/Code/SlechteCodeCP1.1.png" alt="Slechte Code" /></li>
+        <li><img src="/images/Code/CodeFout1.png" alt="Slechte Code" /></li>
              <h2>Foute code</h2>
-        <li><img src="/images/Code/SlechteCodeCP1.2.png" alt="Slechte Code" /></li>
+        <li><img src="/images/Code/FouteCode2.png" alt="Slechte Code" /></li>
       </ul>
 <br />
       <ul class="inline-list2">
               <h2>Goede code</h2>
-        <li><img src="/images/Code/GoedeCodeCP1.1.png" alt="Goede Code" /></li>
+        <li><img src="/images/Code/CodeGoed1.png" alt="Goede Code" /></li>
               <h2>Goede code</h2>
-        <li><img src="/images/Code/GoedeCodeCP1.2.png" alt="Goede Code" /></li>
+        <li><img src="/images/Code/GoedeCode2.png" alt="Goede Code" /></li>
       </ul>
         <br />
       <ul>
-      <h3>Linter zoals ESLint en Stylelint zijn gebruikt om consistentie te waarborgen.</h3>
-      </ul>
-      <ul class="inline-list">
-        <li><img class="large-img" src="/images/Code/Linting1.png" alt="Linting voorbeeld" /></li>
       </ul>
     </section>
     <br />
@@ -103,11 +96,8 @@
 
 
       <ul class="inline-list">
-        <li><img class="large-img" src="/images/Code/Beheer.png" alt="Beheer code" /></li>
-        <li><img class="large-img" src="/images/Code/GitKraken.VS.Test.png" alt="GitKraken voorbeeld 1" /></li>
-        <li><img class="large-img" src="/images/Code/GitKraken.newsui.png" alt="GitKraken voorbeeld 2" /></li>
-        <li><img class="large-img" src="/images/Code/Azure.Pull.png" alt="Git commit geschiedenis" /></li>
-        <li><img class="large-img" src="/images/Code/azure.push.png" alt="Backup voorbeeld" /></li>
+        <li><img class="large-img" src="/images/Code/Versiebeheer.png" alt="Beheer code" /></li>
+        <li><img class="large-img" src="/images/Code/versiebeheer_github.png" alt="Git commit geschiedenis" /></li>
       </ul>
     </section>
         <br />
