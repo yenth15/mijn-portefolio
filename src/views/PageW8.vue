@@ -21,7 +21,7 @@
       <img src="/images/Doc/FeedbackTips.png" alt="FeedbackenTips" />
       <div class="document-container" style="margin-top: 20px;">
         <iframe
-          src="/doc/FB/ReflectieMeetingsenTeamwork.pdf"
+          src="/doc/FB/ReflectieMeetingsenZelfstandigWerken.pdf"
           width="100%"
           height="400"
           frameborder="0"
