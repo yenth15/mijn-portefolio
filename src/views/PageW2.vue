@@ -63,9 +63,9 @@
         <strong>Volledig:</strong> Er zijn gebruik gemaakt van relevante of toepasselijke Schematechnieken (bijv. activiteitendiagram, klassendiagram, ERD use case diagram)
       </p>
         </div>
-        <!-- Extra tekst tussen document 3 en 4 -->
+        <!-- Extra tekst tussen document 4 en 5 -->
         <div
-          v-if="index === 2"
+          v-if="index === 3"
           class="extra-text-block"
         >
           <br /><br /><br />
@@ -123,8 +123,18 @@ export default {
             "/images/Doc/MockUp4.png",
           ],
         },
-
         // Document 3
+                {
+          title: "Funtioneel Ontwerp, The KEMBIT Times | 1.0",
+          iframes: ["/doc/FO/FunctioneelOntwerp_TheKEMBITTimes.pdf"],
+        },
+        // Document 4
+        {
+          title: "Functioneel Ontwerp, The KEMBIT Times | 2.0",
+          iframes: ["/doc/FO/FunctioneelOntwerp_TKT-05.pdf"],
+        },
+
+        // Document 5
         {
           title: "Technisch Ontwerp, The KEMBIT Times | 1.0",
           iframes: ["/doc/TO/TechnischOntwerp_TheKembitTimes_2.0.pdf"],
@@ -159,7 +169,7 @@ export default {
           ],
         },
       ],
-      selectedImages: Array(4).fill(0),
+      selectedImages: Array(6).fill(0),
     };
   },
   methods: {
