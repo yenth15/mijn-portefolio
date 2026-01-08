@@ -127,11 +127,35 @@ export default {
                 {
           title: "Funtioneel Ontwerp, The KEMBIT Times | 1.0",
           iframes: ["/doc/FO/FunctioneelOntwerp_TheKEMBITTimes.pdf"],
+          buttons: [
+            "Fetch | UI", //////// Pas naam aan
+            "Search| UI",/////// Pas naam aan
+            "News | UI",/////// Pas naam aan
+            "Pager| UI",/////// Pas naam aan
+          ],
+          images: [
+            "/images/Doc/FetchSortK1.png",
+            "/images/Doc/SearchNewsK1.png",
+            "/images/Doc/NewsK1.png",
+            "/images/Doc/PagerK1.png",
+          ],
         },
         // Document 4
         {
           title: "Functioneel Ontwerp, The KEMBIT Times | 2.0",
           iframes: ["/doc/FO/FunctioneelOntwerp_TKT-05.pdf"],
+          buttons: [
+            "Start | Feeder",////// Pas naam aan
+            "Loop | Feeder",////// Pas naam aan
+            "Verwerkingen | Feeder",////// Pas naam aan
+            "News tekst | Feeder",////// Pas naam aan
+          ],
+          images: [
+            "/images/Doc/FeederStartK2.png",
+            "/images/Doc/FeederLoopK2.png",
+            "/images/Doc/FeederVerwerkingenK3.png",
+            "/images/Doc/FeederNewsTekstK3.png",
+          ],
         },
 
         // Document 5
