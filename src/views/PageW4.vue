@@ -47,8 +47,8 @@ export default {
     return {
       documents: [
         {
-          title: "KEMBIT UI Testdocument",
-          src: "/doc/TenV/Test_TheKEMBITTimes.pdf",
+          title: "TNW UI Testdocument",
+          src: "/doc/TenV/Test_Elektroscheppers (UI-gerelateerd).pdf",
         },
       ],
     };
