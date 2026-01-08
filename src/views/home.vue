@@ -53,8 +53,7 @@ export default {
       buttonsK2: [
         { titel: 'B1-K2-W1', onderdelen: ['Actief deelnemen met relevante onderwerpen.', 'Regelmatig en tijdig afstemmen over voortgang.', 'Afspraken eenduidig vastleggen.', 'Zich houden aan gemaakte afspraken.'], link: '/pageW6' },
         { titel: 'B1-K2-W2', onderdelen: ['Overtuigend en duidelijk presenteren.', 'Gerichte vragen stellen voor begrip.', 'Adequaat reageren op feedback.'], link: '/pageW7' },
-        { titel: 'B1-K2-W3', onderdelen: ['Positieve en verbeterpunten benoemen.', 'Adequaat reageren op feedback.', 'Actieve houding tijdens reflecties.'], link: '/pageW8' },
-        { titel: 'buasIntake', onderdelen: ['Creative Media and Game Technolegies.', 'Bachelor', '4 jaar', 'Voltijd', 'Engels', 'Start 1 september 2026'], link: '/buasIntake' }
+        { titel: 'B1-K2-W3', onderdelen: ['Positieve en verbeterpunten benoemen.', 'Adequaat reageren op feedback.', 'Actieve houding tijdens reflecties.'], link: '/pageW8' }
       ]
     };
   }
