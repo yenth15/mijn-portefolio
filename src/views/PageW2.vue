@@ -51,31 +51,31 @@
             />
           </div>
         </div>
-        
-        <!-- Extra tekst na document 2 -->
-        <div v-if="index === 1" class="extra-text-block">
-          <br /><br /><br /><br />
-          <h2>Schematechnieken</h2>
-          <p>
-            Beoordelingseisen:
-            <br />
-            <strong>Volledig:</strong>
-            Er zijn gebruik gemaakt van relevante of toepasselijke
-            Schematechnieken (bijv. activiteitendiagram, klassendiagram,
-            ERD use case diagram)
-          </p>
-        </div>
 
-        <div v-if="index === 1" class="extra-text-block">
+        <!-- Extra tekst tussen document 2 en 3 -->
+        <div
+          v-if="index === 2"
+          class="extra-text-block"
+        >
+          <br /><br /><br /><br />
+          <H2>Schematechnieken</H2>
+      <p>
+        Beoordelingseisen:
+        <br />
+        <strong>Volledig:</strong> Er zijn gebruik gemaakt van relevante of toepasselijke Schematechnieken (bijv. activiteitendiagram, klassendiagram, ERD use case diagram)
+      </p>
+        </div>
+        <!-- Extra tekst tussen document 4 en 5 -->
+        <div
+          v-if="index ===1"
+          class="extra-text-block"
+        >
           <br /><br /><br />
-          <h2>Onderbouwing</h2>
+          <H2>Onderbouwing</H2>
           <p>
             Beoordelingseisen:
             <br />
-            <strong>Volledig:</strong>
-            De gemaakte keuzes in het ontwerp zijn onderbouwd met
-            steekhoudende argumenten, waarbij rekening is gehouden met
-            haalbaarheid, privacy en security.
+            <strong>Volledig:</strong> De gemaakte keuzes in het ontwerp zijn onderbouwd met steekhoudende argumenten, waarbij rekening is gehouden met haalbaarbeid, privacy en security.
           </p>
         </div>
       </div>
