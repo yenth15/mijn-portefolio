@@ -45,6 +45,7 @@
             </div>
 
             <img
+              v-show="![2, 3].includes(index)"
               :src="doc.images[selectedImages[index]]"
               alt="afbeelding"
             />
