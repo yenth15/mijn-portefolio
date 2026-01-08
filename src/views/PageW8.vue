@@ -18,7 +18,7 @@
         <br />
         <strong>Volledig:</strong> De kandidaat reageert actief op ontvangen feedback.
       </p>
-
+      <img src="/images/DocFeedbackTips.png" alt="FeedbackenTips" />
       <div class="document-container" style="margin-top: 20px;">
         <iframe
           src="/doc/reflectieMeetingsEnTeamwork.pdf"
