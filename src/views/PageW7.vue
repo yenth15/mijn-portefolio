@@ -11,7 +11,7 @@
                 <strong>Volledig:</strong> De kandidaat legt de functionaliteit uit met goed opgebouwd en met argumenten onderbouwt verhaal.
             </p>
       <iframe
-        src="/doc/FB/Reflectieverslag.pdf"
+        src="/doc/FB/ReflectieMeetingsenZelfstandigWerken.pdf"
         width="100%"
         height="600px"
         frameborder="0"
