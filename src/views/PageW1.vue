@@ -57,8 +57,8 @@
       <p><strong>Bewijsstuk:</strong></p>
       <ul>
         <li>
-          <a href="https://trello.com/b/wXNOVcTn/kembit" target="_blank" rel="noopener noreferrer">
-            <strong>Trello board</strong> | The KEMBIT Times 1.0
+          <a href="https://trello.com/b/N3ZkUKzW/documentassistent" target="_blank" rel="noopener noreferrer">
+            <strong>Trello board</strong> | DocumentAssistent
           </a>
         </li>
       </ul>
@@ -78,8 +78,8 @@
       <p><strong>Bewijsstuk:</strong></p>
       <ul>
         <li>
-          <a href="https://trello.com/b/mcqUSTDm/stage-opdracht" target="_blank" rel="noopener noreferrer">
-            <strong>Trello board</strong> | The KEMBIT Times 2.0
+          <a href="https://trello.com/b/6756SHVX/yenthje-portfolio-project" target="_blank" rel="noopener noreferrer">
+            <strong>Trello board</strong> | portfolio
           </a>
         </li>
       </ul>

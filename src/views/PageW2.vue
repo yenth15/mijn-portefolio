@@ -5,18 +5,6 @@
     <h1>B1-K1-W2</h1>
 
     <div class="text-block">
-      <h2>Mijn documenten</h2>
-      <p>
-        Voor sprint 4.2 heb ik ChrisPortfolio opnieuw opgebouwd 
-        – deze keer in React – 
-        met een sterkere structuur en verbeterde code. 
-        Daarnaast heb ik samen met mijn groep bij KEMBIT een nieuwswebsite 
-        gemaakt (KEMBIT 1.0). Later hebben we deze uitgebreid en verbeterd 
-        tot een nieuwe versie: KEMBIT 2.0, met extra functionaliteiten 
-        en een professionelere uitstraling.
-      </p>
-
-      <br />
       <h2>Ontwerp</h2>
       <p>
         Beoordelingseisen:
@@ -103,36 +91,36 @@ export default {
       documents: [
         // Document 1
         {
-          title: "Behoefte Analyse, Portfolio website | voor Christian Schroth",
-          iframes: ["/doc/BA/Behoeftealalyse ChrisPortfolio.pdf"],
+          title: "Behoefte Analyse, DocumentAssistent",
+          iframes: ["/doc/BA/behoefteanalyse_DocumentAssistent-10.pdf#toolbar=0"],
           buttons: [
-            "Over mij | Ontwerp",
-            "Werkervaring | Ontwerp",
-            "Mijn Projecten | Ontwerp",
-            "Contact form | Ontwerp",
+            "HomePage | Ontwerp",
+            "GooglePage| Ontwerp",
+            "TemplatePage | Ontwerp",
+            "GenereerPage | Ontwerp",
           ],
           images: [
-            "/images/WebChris/CP-MockUp1.png",
-            "/images/WebChris/CP-MockUp2.png",
-            "/images/WebChris/CP-MockUp3.png",
-            "/images/WebChris/CP-MockUp4.png",
+            "/images/Doc/MockUp5.png",
+            "/images/Doc/MockUp6.png",
+            "/images/Doc/MockUp7.png",
+            "/images/Doc/MockUp8.png",
           ],
         },
         // Document 2
         {
-          title: "Behoefte Analyse, The KEMBIT Times | 1.0",
-          iframes: ["/doc/BA/behoefteanalyse_TheKEMBITTimes.pdf"],
+          title: "Behoefte Analyse, Elektroscheppers",
+          iframes: ["/doc/BA/behoefteanalyse_website_Elektroscheppers-8.pdf#toolbar=0"],
           buttons: [
-            "Home | Ontwerp",
-            "Account | Ontwerp",
-            "Reistreer | Ontwerp",
-            "Abonnement | Ontwerp",
+            "LoginPage | Ontwerp",
+            "WebchatPage | Ontwerp",
+            "InzichtPage | Ontwerp",
+            "DocumentPage | Ontwerp",
           ],
           images: [
-            "/images/WebKEMBIT/HomeK1-MU.png",
-            "/images/WebKEMBIT/NavDropDownK1-MU.png",
-            "/images/WebKEMBIT/RegistreerK1-MU.png",
-            "/images/WebKEMBIT/SubK1-MU.png",
+            "/images/Doc/MockUp1.png",
+            "/images/Doc/MockUp2.png",
+            "/images/Doc/MockUp3.png",
+            "/images/Doc/MockUp4.png",
           ],
         },
         // Document 3
