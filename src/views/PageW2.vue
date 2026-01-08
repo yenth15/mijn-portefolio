@@ -125,8 +125,8 @@ export default {
         },
         // Document 3
                 {
-          title: "Funtioneel Ontwerp, The KEMBIT Times | 1.0",
-          iframes: ["/doc/FO/FunctioneelOntwerp_TheKEMBITTimes.pdf"],
+          title: "Funtioneel Ontwerp, C++ Game",
+          iframes: ["/doc/FO/FunctioneelOntwerp_C++-10.pdf"],
           buttons: [
             "Fetch | UI", //////// Pas naam aan
             "Search| UI",/////// Pas naam aan
@@ -142,8 +142,8 @@ export default {
         },
         // Document 4
         {
-          title: "Functioneel Ontwerp, The KEMBIT Times | 2.0",
-          iframes: ["/doc/FO/FunctioneelOntwerp_TKT-05.pdf"],
+          title: "Functioneel Ontwerp, DocumentAssistent",
+          iframes: ["/doc/FO/FunctioneelOntwerp_offerte-10.pdf"],
           buttons: [
             "Start | Feeder",////// Pas naam aan
             "Loop | Feeder",////// Pas naam aan
