@@ -13,7 +13,7 @@
                 <strong>Volledig:</strong> De kandidaat neemt actief deel aan het overleg waarbij relevante onderwerpen worden ingebracht en de juiste vragen worden gesteld.
             </p>
           <audio controls style="width: 100%; max-width: 500px; margin-top: 10px;">
-            <source src="/images/FeedBack/KlantGesprek.mp4" type="audio/mp4" />
+            <source src="/images/FeedBack/Klantgesprek.mp4" type="audio/mp4" />
         </audio>
         </div>
         <br />
