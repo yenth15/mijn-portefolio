@@ -11,7 +11,7 @@
                 <strong>Volledig:</strong> De kandidaat legt de functionaliteit uit met goed opgebouwd en met argumenten onderbouwt verhaal.
             </p>
       <iframe
-        src="/doc/BA/.pdf"
+        src="/doc/FB/Reflectieverslag.pdf"
         width="100%"
         height="600px"
         frameborder="0"
@@ -27,7 +27,7 @@
         </p>
         </div>
 
-    <img src="/doc/uitnodiging-mail.jpg" alt="E-mail uitnodiging" />
+    <img src="/images/Feedback/Feedback.png" alt="E-mail uitnodiging" />
 
     <div class="text-block">
         <h2>beantwoorden vragen</h2>
