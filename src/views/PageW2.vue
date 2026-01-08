@@ -32,7 +32,8 @@
           </div>
 
           <div class="side-block">
-            <div class="buttons">
+            <div class="buttons"
+            v-show="![2, 3].includes(index)">
               <button
                 v-for="(btn, i) in doc.buttons"
                 :key="i"
@@ -92,7 +93,7 @@ export default {
         // Document 1
         {
           title: "Behoefte Analyse, DocumentAssistent",
-          iframes: ["/doc/BA/behoefteanalyse_DocumentAssistent-10.pdf#toolbar=0"],
+          iframes: ["/doc/BA/behoefteanalyse_DocumentAssistent-10.pdf"],
           buttons: [
             "HomePage | Ontwerp",
             "GooglePage| Ontwerp",
@@ -109,7 +110,7 @@ export default {
         // Document 2
         {
           title: "Behoefte Analyse, Elektroscheppers",
-          iframes: ["/doc/BA/behoefteanalyse_website_Electroscheppers-8.pdf#toolbar=0"],
+          iframes: ["/doc/BA/behoefteanalyse_website_Electroscheppers-8.pdf"],
           buttons: [
             "LoginPage | Ontwerp",
             "WebchatPage | Ontwerp",
