@@ -61,8 +61,9 @@
           <H2>Onderbouwing</H2>
       <p>
         Beoordelingseisen:
-          <br />
-          <strong>Volledig:</strong> De gemaakte keuzes in het ontwerp zijn onderbouwd met steekhoudende argumenten, waarbij rekening is gehouden met haalbaarbeid, privacy en security.
+        <br />
+        <strong>Volledig:</strong> De gemaakte keuzes in het ontwerp zijn onderbouwd met steekhoudende argumenten, waarbij rekening is gehouden met haalbaarbeid, privacy en security.
+      </p>
         </div>
         <!-- Extra tekst tussen document 4 en 5 -->
         <div
