@@ -54,7 +54,7 @@
 
         <!-- Extra tekst tussen document 2 en 3 -->
         <div
-          v-if="index === 2"
+          v-if="index === 1"
           class="extra-text-block"
         >
           <br /><br /><br /><br />
@@ -67,7 +67,7 @@
         </div>
         <!-- Extra tekst tussen document 4 en 5 -->
         <div
-          v-if="index === 1"
+          v-if="index === 2"
           class="extra-text-block"
         >
           <br /><br /><br />
