@@ -40,8 +40,8 @@ export default {
     return {
       documents: [
         {
-          title: "KEMBIT Verbetervoorstellen Document",
-          src: "/doc/TenV/Verbeter_TheKEMBITTimes.pdf",
+          title: "TNW Verbetervoorstellen Document",
+          src: "/doc/TenV/VerbeterdocumentElektroscheppers.pdf",
         },
       ],
     };
