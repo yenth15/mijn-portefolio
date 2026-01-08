@@ -31,7 +31,7 @@
             ></iframe>
           </div>
 
-          <div class="side-block">
+          <div v-if="doc.buttons && doc.buttons.length > 0" class="side-block">
             <div class="buttons">
               <button
                 v-for="(btn, i) in doc.buttons"
@@ -109,7 +109,7 @@ export default {
         // Document 2
         {
           title: "Behoefte Analyse, Elektroscheppers",
-          iframes: ["/doc/BA/behoefteanalyse_website_Elektroscheppers-8.pdf#toolbar=0"],
+          iframes: ["/doc/BA/behoefteanalyse_website_Electroscheppers-8.pdf#toolbar=0"],
           buttons: [
             "LoginPage | Ontwerp",
             "WebchatPage | Ontwerp",
@@ -144,36 +144,12 @@ export default {
         {
           title: "Functioneel Ontwerp, The KEMBIT Times | 2.0",
           iframes: ["/doc/FO/FunctioneelOntwerp_TKT-05.pdf"],
-          buttons: [
-            "Start | Feeder",////// Pas naam aan
-            "Loop | Feeder",////// Pas naam aan
-            "Verwerkingen | Feeder",////// Pas naam aan
-            "News tekst | Feeder",////// Pas naam aan
-          ],
-          images: [
-            "/images/Doc/FeederStartK2.png",
-            "/images/Doc/FeederLoopK2.png",
-            "/images/Doc/FeederVerwerkingenK3.png",
-            "/images/Doc/FeederNewsTekstK3.png",
-          ],
         },
 
         // Document 5
         {
           title: "Technisch Ontwerp, The KEMBIT Times | 1.0",
           iframes: ["/doc/TO/TechnischOntwerp_TheKembitTimes_2.0.pdf"],
-          buttons: [
-            "Activiteiten Diagram",
-            "DataSchema",
-            "Mock-up",
-            "WireFrame",
-          ],
-          images: [
-            "/images/Doc/ActiviteitenDiagramTheKembitTimes.png",
-            "/images/Doc/TheKembitTimes.png",
-            "/images/WebKembit/HomeK1-MU.png",
-            "/images/Doc/WireFrame_K2.png",
-          ],
         },
         // Document 6
                 {
