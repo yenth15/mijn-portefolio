@@ -162,36 +162,34 @@ export default {
 
         // Document 5
         {
-          title: "Technisch Ontwerp, The KEMBIT Times | 1.0",
-          iframes: ["/doc/TO/TechnischOntwerp_TheKembitTimes_2.0.pdf"],
+          title: "Technisch Ontwerp, Elektroscheppers",
+          iframes: ["/doc/TO/technischontwerp_Elektroscheppers-2.0.pdf"],
           buttons: [
             "Activiteiten Diagram",
             "DataSchema",
             "Mock-up",
             "WireFrame",
+            "Componenten Diagram",
           ],
           images: [
-            "/images/Doc/ActiviteitenDiagramTheKembitTimes.png",
-            "/images/Doc/TheKembitTimes.png",
-            "/images/WebKembit/HomeK1-MU.png",
-            "/images/Doc/WireFrame_K2.png",
+            "/images/Doc/UML_Activiteiten_diagram_Elektroscheppers.png",
+            "/images/Doc/.png",
+            "/images/Doc/MockUp2.png",
+            "/images/Doc/wireframe_elektroscheppers.png",
+            "/images/Doc/conponenten_diagram.png",
           ],
         },
         // Document 6
                 {
-          title: "Technisch Ontwerp, The KEMBIT Times  | 2.0",
-          iframes: ["/doc/TO/TechnischOntwerp_TKT-05.pdf"],
+          title: "Technisch Ontwerp, C++ Game",
+          iframes: ["/doc/TO/technischontwerp_C++-10.pdf"],
           buttons: [
-            "Activiteiten Diagram",
-            "DataSchema",
+            "Mock-up",
             "WireFrame",
-            "Componenten Diagram",
           ],
           images: [
-            "/images/Doc/ActiviteitenDiagram_TheKembitTimes_2.0.png",
-            "/images/Doc/RelationeelDataK2.png",
-            "/images/Doc/WireFrame_K1.png",
-            "/images/Doc/ComponentenDiagramk2.png",
+            "/images/Doc/MockUp9.png",
+            "/images/Doc/wireframe_C++.png",
           ],
         },
       ],
