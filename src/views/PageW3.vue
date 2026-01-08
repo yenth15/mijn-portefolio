@@ -96,8 +96,8 @@
 
 
       <ul class="inline-list">
-        <li><img class="large-img" src="/images/Code/Versiebeheer.png" alt="Beheer code" /></li>
-        <li><img class="large-img" src="/images/Code/versiebeheer_github.png" alt="Git commit geschiedenis" /></li>
+        <li><img class="large-img" src="/images/Doc/Versiebeheer.png" alt="Beheer code" /></li>
+        <li><img class="large-img" src="/images/Doc/versiebeheer_github.png" alt="Git commit geschiedenis" /></li>
       </ul>
     </section>
         <br />
