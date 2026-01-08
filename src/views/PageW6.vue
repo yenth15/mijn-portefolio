@@ -28,7 +28,7 @@
           <div class="image-preview">
             <img class="Groter" src="images/Doc/meetingDocumentAi.png" alt="Teams berichten" />
             <br />
-            <img class="Groter" src="images/FeedBack/MeetingTNW.png" alt="Teams meeting" />
+            <img class="Groter" src="images/Doc/MeetingTNW.png" alt="Teams meeting" />
           </div>
         </div>
         <br />
@@ -79,7 +79,7 @@
 
         <h3>Beoordelings formulier</h3>
         <iframe
-          src="/doc/TenV/Beoordeling.pdf"
+          src="/doc/FB/Beoordelingsformulier.pdf"
           width="100%"
           height="450px"
           frameborder="0"
