@@ -26,9 +26,9 @@
             <strong>Volledig:</strong> De kandidaat stemt Regelmatig en tijdig af met projectteamleden en opdrachtgever over de voortgang en eventuele knelpunten.
         </p>
           <div class="image-preview">
-            <img class="Groter" src="images/FeedBack/GroepOverleg.png" alt="Teams berichten" />
+            <img class="Groter" src="images/Doc/meetingDocumentAi.png" alt="Teams berichten" />
             <br />
-            <img class="Groter" src="images/FeedBack/MeetingGroep.png" alt="Teams meeting" />
+            <img class="Groter" src="images/FeedBack/MeetingTNW.png" alt="Teams meeting" />
           </div>
         </div>
         <br />
@@ -42,7 +42,7 @@
                 <strong>Volledig:</strong> De gemaakt afspraken zijn eenduidig vastgelegd.
             </p>
           <div class="image-preview">
-            <img class="Groter" src="images/FeedBack/PlanningK.png" alt="Planning" />
+            <img class="Groter" src="images/Doc/AfspraakMaken.png" alt="Planning" />
           </div>
         </div>
         <br />
@@ -56,7 +56,7 @@
                 <strong>Volledig:</strong> De kandidaat houdt zich aan gemaakte afspraken.
             </p>
             <div class="image-preview">
-            <img class="Groter" src="images/FeedBack/Afspraken.png" alt="Teams" />
+            <img class="Groter" src="images/Doc/AfspraakNakomen.png" alt="Teams" />
             </div>
         </div>
       </div>
