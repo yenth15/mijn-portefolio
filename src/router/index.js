@@ -10,8 +10,6 @@ import PageW6 from '../views/PageW6.vue';
 import PageW7 from '../views/PageW7.vue';
 import PageW8 from '../views/PageW8.vue';
 
-import buasIntake from '../views/buasIn.vue';
-
 const routes = [
   {
     path: '/',
@@ -60,15 +58,8 @@ const routes = [
     path: '/pageW8',
     name: 'PageW8',
     component: PageW8
-  },
-
-
-
-  {
-    path: '/buasIntake',
-    name: 'buasIntake',
-    component: buasIntake
   }
+  
 ];
 
 const router = createRouter({
