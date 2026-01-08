@@ -70,7 +70,7 @@
         <p>Bekijk hieronder de documenten:</p>
         <h3>Klanten gesprek</h3>
           <iframe
-            src="/doc/FB/Notaties_KlantenGesprek0805.pdf"
+            src="/doc/FB/Klantgesprek.pdf"
             width="100%"
             height="450px"
             frameborder="0"

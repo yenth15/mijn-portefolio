@@ -36,6 +36,8 @@
         <strong>Volledig:</strong> De kandidaat beantwoord vragen met steekhoudende argumenten.
         </p>
     </div>
+    <img src="/images/Doc/FeedbackTips.png" alt="Feedback krijgen" />
+    <img src="/images/Doc/reagerenopfeedback.png" alt="Feedback gebruiken en op reageren" />
   </div>
 </template>
 
