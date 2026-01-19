@@ -1,0 +1,148 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #1a4eaf;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 100px !important;
+  color: #003cff;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.container {
+  background-color: #1a4eaf;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.row {
+  max-width: 1800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  padding: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.kolom {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+}
+
+.blok {
+  margin-bottom: 20px;
+  width: auto;
+  text-align: center;
+  position: relative;
+}
+
+.hoofdknop {
+  width: 150px;
+  height: 150px;
+  padding: 15px;
+  font-size: 18px;
+  background-color: rgba(33, 112, 122, 0.7);
+  border: none;
+  border-radius: 50%;
+  color: #003172;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.hoofdknop:hover {
+  width: 400px;
+  height: 200px;
+  border-radius: 12px;
+  background-color: #21707a;
+  border: 2px solid #003172;
+  z-index: 2;
+}
+
+.titel {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #6591bb;
+  transition: all 0.3s ease;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  z-index: 3;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.hoofdknop:hover .titel {
+  opacity: 0.5;
+  color: #0a2b5c;
+  font-size: 48px;
+  transform: translate(-50%, -50%) scale(1.5);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(26, 78, 175, 0.149);
+  border-radius: 12px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  z-index: 3;
+}
+
+.onderdelen {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  z-index: 3;
+}
+
+.hoofdknop:hover .onderdelen {
+  opacity: 1;
+}
+
+.onderdeel {
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #0c284d;
+  border: 1px solid #0c284d;
+  background-color: transparent;
+  white-space: nowrap;
+}
