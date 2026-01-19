@@ -15,16 +15,16 @@
           <audio controls style="width: 100%; max-width: 500px; margin-top: 10px;">
             <source src="/images/Doc/Klantgesprek.mp4" type="video/mp4" />
         </audio>
-        <p>Beoordelingseisen:
+        <p>
             <br />
             TimeStamps wanneer Yenth praat!
-            1:29
-            2:44
-            3:08
-            4:14
-            4:33
-            5:57
-            6:25
+            1:29,
+            2:44,
+            3:08,
+            4:14,
+            4:33,
+            5:57,
+            6:25,
             10:08
         </p>
         </div>
