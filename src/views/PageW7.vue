@@ -11,12 +11,15 @@
                 <strong>Volledig:</strong> De kandidaat legt de functionaliteit uit met goed opgebouwd en met argumenten onderbouwt verhaal.
             </p>
       <iframe
-        src="/"
+        src="/images/Doc/Deeloplevering.mp4"
         width="100%"
         height="600px"
         frameborder="0"
         class="pdf-viewer"
       ></iframe>
+      <video controls style="width: 100%; max-width: 500px; margin-top: 10px;">
+            <source src="/images/Doc/Deeloplevering.mp4" type="video/mp4" />
+        </video>
 
     </div>
 
