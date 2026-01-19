@@ -35,7 +35,7 @@
         </li>
         <li>
             <video controls style="width: 100%; max-width: 800px; margin-top: 10px;">
-              <source src="/images/Doc/Klantgesprek.mp4" type="video/mp4" />
+              <source src="/images/Doc/PortfolioVideo.mp4" type="video/mp4" />
             </video>
         </li>
       </ul>
