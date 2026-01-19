@@ -17,9 +17,6 @@
         frameborder="0"
         class="pdf-viewer"
       ></iframe>
-      <video controls style="width: 100%; max-width: 500px; margin-top: 10px;">
-            <source src="/images/Doc/Deeloplevering.mp4" type="video/mp4" />
-        </video>
 
     </div>
 
