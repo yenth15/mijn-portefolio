@@ -23,11 +23,11 @@
     </div>
 
     <div class="text-block">
-        <p>
-          <a href="/images/Doc/DeelOpleveringGame.txt" target="_blank">
-            Open tekstbestand (beschrijving van de game)
-          </a>
-        </p>
+      <p>
+        <a href="/images/C++/DeelopleveringGame.txt" target="_blank">
+          Open tekstbestand (beschrijving van de game)
+        </a>
+      </p>
 
       <iframe
         src="/images/Doc/DeelOpleveringGame.mp4"
