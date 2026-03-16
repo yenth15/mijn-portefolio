@@ -18,6 +18,21 @@
         class="pdf-viewer"
       ></iframe>
 
+      <div class="text-block">
+        <p>
+          <a href="/images/Doc/DeelOpleveringGame.txt" target="_blank">
+            Open tekstbestand (beschrijving van de game)
+          </a>
+        </p>
+
+      <iframe
+        src="/images/Doc/DeelOpleveringGame.mp4"
+        width="100%"
+        height="600px"
+        frameborder="0"
+        class="pdf-viewer"
+      ></iframe>
+
     </div>
 
 

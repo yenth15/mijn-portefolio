@@ -1,0 +1,71 @@
+Dia 1 – C++ Game
+
+Idle RPG resource management game ontwikkeld in C++.
+Gekozen voor C++ om mijn programmeervaardigheden te verbeteren en omdat het meer uitdaging geeft dan een game engine.
+Veel systemen zelf gebouwd zoals game logica en datastructuren.
+Gebruik van een library voor bepaalde onderdelen.
+Idle genre gekozen omdat het goed uitbreidbaar is en een goede eerste game is.
+
+Dia 2 – Doel van de deeloplevering
+
+Laten zien dat de basis van de game werkt.
+Werkende systemen: resource verzamelen (softwood, stone) en blueprints unlocken en upgraden.
+Gebruik van C++ concepten zoals classes en unordered maps.
+Feedback verzamelen over gameplay, balans en mogelijke bugs.
+
+Dia 3 – Doelgroep
+
+Gamers die idle games leuk vinden.
+Focus op progressie: spelers worden steeds sterker naarmate ze langer spelen.
+Combinatie van idle mechanics met RPG elementen zoals rassen en stats.
+Later prestige systeem met speciale resources.
+
+Dia 4 – Concept van de game
+
+Resources verzamelen zoals hout en steen.
+Resources gebruiken om items te craften in de forge.
+Items geven bonus stats voor snellere progressie.
+Spelers kunnen verschillende builds maken.
+
+Dia 5 – Startscherm
+
+Startscherm met knoppen: start, options, load en quit.
+Load knop bedoeld voor meerdere save slots.
+Schermwissel werkt via boolean variabelen.
+Tutorial en load nog niet geïmplementeerd maar voorbereid voor later.
+
+Dia 6 – Race systeem
+
+Keuze uit vijf rassen: Human, Dwarf, Elf, Lizardfolk en Orc.
+Elk ras heeft verschillende start stats.
+Bijvoorbeeld Orc heeft meer lumberjack power dan Human.
+Stats opgeslagen met variabelen en unordered maps.
+Balans tussen early en late game rassen.
+
+Dia 7 – Resource systeem
+
+Resources zoals softwood en stone verzamelen via knoppen.
+Aantal resources gebaseerd op resource power.
+Later uitbreiding met meer resources en complexere formules.
+Resources opgeslagen met unordered maps.
+
+Dia 8 – Crafting systeem
+
+Speler speelt als blacksmith met een forge.
+Resources gebruiken om items te craften.
+Items geven bonus stats.
+Crafting requirements gedefinieerd in de code.
+Items en resources opgeslagen in unordered maps.
+
+Dia 9 – Technische uitdagingen
+
+Balanceren van exponentiële progressie in idle games.
+Voorkomen dat spelers te snel door de game gaan.
+Probleem met tekstgrootte in interface opgelost door aanpassing in de library.
+
+Dia 10 – Wat komt hierna
+
+Uitbreiden van de core gameplay.
+Implementeren van de main game loop.
+Worker systeem voor automatische resource productie.
+Dungeon systeem voor monsters en nieuwe resources.
