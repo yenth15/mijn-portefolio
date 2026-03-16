@@ -4,12 +4,15 @@
 
     <h1>B1-K2-W2 | Beoordeling (deel)oplevering</h1>
 
-        <div class="text-block">
-            <h2>Presentatie inhoud</h2>
-            <p>Beoordelingseisen:
-                <br />
-                <strong>Volledig:</strong> De kandidaat legt de functionaliteit uit met goed opgebouwd en met argumenten onderbouwt verhaal.
-            </p>
+    <div class="text-block">
+      <h2>Presentatie inhoud</h2>
+      <p>
+        Beoordelingseisen:
+        <br />
+        <strong>Volledig:</strong>
+        De kandidaat legt de functionaliteit uit met goed opgebouwd en met argumenten onderbouwt
+        verhaal.
+      </p>
       <iframe
         src="/images/Doc/Deeloplevering.mp4"
         width="100%"
@@ -17,8 +20,9 @@
         frameborder="0"
         class="pdf-viewer"
       ></iframe>
+    </div>
 
-      <div class="text-block">
+    <div class="text-block">
         <p>
           <a href="/images/Doc/DeelOpleveringGame.txt" target="_blank">
             Open tekstbestand (beschrijving van de game)
@@ -32,16 +36,17 @@
         frameborder="0"
         class="pdf-viewer"
       ></iframe>
-
     </div>
 
-
-        <div class="text-block">
-        <h2>Presentatietechnieken</h2>
-        <p>Beoordelingseisen:
-            <strong>Volledig:</strong> De kandidaat stemt de stijl van communiceren en de presentatiemiddelen af op de toehoorders.
-        </p>
-        </div>
+    <div class="text-block">
+      <h2>Presentatietechnieken</h2>
+      <p>
+        Beoordelingseisen:
+        <strong>Volledig:</strong>
+        De kandidaat stemt de stijl van communiceren en de presentatiemiddelen af op de
+        toehoorders.
+      </p>
+    </div>
 
     <img src="/images/FeedBack/Feedback.png" alt="E-mail uitnodiging" />
 
